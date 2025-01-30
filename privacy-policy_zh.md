@@ -1,6 +1,6 @@
 # 隐私政策
 
-**本隐私政策 适用于 Calcitem Studio 开发的 Mill（com.calcitem.sanmill）应用。**  
+**本隐私政策 适用于 Calcitem Studio 开发的 直棋（com.calcitem.sanmill）应用。**  
 _最近更新时间：2025年1月30日。_
 
 请花点时间了解我们的隐私实践，如有任何疑问，请随时告知我们。
